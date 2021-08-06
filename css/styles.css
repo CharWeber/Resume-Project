@@ -8,7 +8,6 @@
 }
 .crop{
   border-radius: 280px;
-  box-shadow: 5px 10px black;
 }
 .card{
   background-color: gray;
@@ -29,4 +28,19 @@ a{
   font-style:italic;
   font-weight: bold;
   color:red;
+}
+ul{
+  list-style-type: none;
+}
+.floatr{
+  float: right;
+}
+.shrink{
+  width:200px;
+  height:200px;
+}
+.card{
+  padding-left: 5px;
+  padding-right: 5px;
+  padding-top:5px;
 }
