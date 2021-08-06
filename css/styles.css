@@ -8,6 +8,8 @@
 }
 .crop{
   border-radius: 280px;
+  border-style: solid;
+  border-color: black;
 }
 .card{
   background-color: gray;
@@ -25,9 +27,6 @@ body{
   font-family: Arial, Helvetica, sans-serif;
   background-color: black;
   scroll-behavior: smooth;
-}
-a{
-  background-color: transparent;
 }
 .highlight{
   font-style:italic;
@@ -55,5 +54,4 @@ h1{
 }
 h2 h3{
   font-style: italic;
-
 }
