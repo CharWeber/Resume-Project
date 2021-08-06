@@ -47,3 +47,13 @@ ul{
 .jumbotron{
   background-color: rgba(255, 99, 71, 0.486);
 }
+ol{
+  font-style: italic;
+}
+h1{
+  font-style: bold;
+}
+h3{
+  font-style: italic bold;
+
+}
