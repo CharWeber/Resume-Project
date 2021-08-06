@@ -24,6 +24,7 @@
 body{
   font-family: Arial, Helvetica, sans-serif;
   background-color: black;
+  scroll-behavior: smooth;
 }
 a{
   background-color: transparent;
